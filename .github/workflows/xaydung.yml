@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
+  ROM_URL: https://get.pixelexperience.org/OVozOHRWb05zN25tL2NQYnZMajhSRzZrVXgzbVg4M3Jqd1ptMmZaY3FmTlNISkdUS0JZQnQwM1dIZ1RvbWlSWTZpeVhTTGROUCs4aGsxZk9tUjdhaEk3cnd6Zm9jWDNMVmZhcXptMFU1RXM9/PixelExperience_sailfish-10.0-20200916-2205-OFFICIAL.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
